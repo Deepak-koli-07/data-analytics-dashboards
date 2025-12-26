@@ -1,0 +1,10 @@
+pandas
+numpy
+pyarrow
+duckdb
+matplotlib
+seaborn
+plotly
+streamlit
+kaggle
+tqdm
